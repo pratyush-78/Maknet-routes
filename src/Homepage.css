@@ -1,0 +1,15 @@
+.homepage {
+    padding: 10px 10px;
+    border: olive 3px solid;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navigate {
+    font-size: 30px;
+    display: grid;
+    /* justify-content: space-around; */
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
